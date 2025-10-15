@@ -10,7 +10,7 @@ agent:
   hostname: pas.jcsn.net.internet2.edu
 enp65s0f0np0:
 
-  isAlias: urn:ogf:network:al2s.internet2.edu:2023:node+core1.jcsn:port+HundredGigE0_0_0_26
+  isAlias: urn:ogf:network:al2s.internet2.edu:2023:node+core1.jcsn:port+HundredGigE0_0_0_27
   vlan_range: [1000-3999]  # This just matches same vlan range on T3_US_Internet2 peering point
 qos:
   policy: hostlevel
